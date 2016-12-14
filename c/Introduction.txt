@@ -1,0 +1,20 @@
+12 Dec, 2016
+-------------
+1. What is a language?
+a method by which humans communicate with each other. like symbols, by speaking , by writing.
+using of words in structural and conventional way. So hindi is a language, odia is a language, english is a language.
+scripts hindi use devnagari script. almost 120 languages uses devnagari script.
+scripts are consist of letters, words, sentences, paragraph --> natural language is used by humans which can be easily spoken and written by humans.
+
+2. what is a programming language?
+A programming language is a language used to instruct computers. It will allow us to give commands and take results from a computer.
+mackine required some form of commands, then computer will process that and return the result.
+3. vi editor
+command mode, insert/edit mode, visual mode
+basic commands (1. i -> for enter in to command mode, 2. :w -> to write to file, 3. :q close the file, 4. yy, 5.dd )
+4. tools and environment setup
+basic linux commands
+cat, cp, mv, mkdir, rmdir, rm
+5. Introduction to C language.
+   C is a high level programming language. Structural, Procedural, imperative language.
+   English like language used to give instruction to machine. Very small machine like on/off switch to super computer with artificial intllegence.
